@@ -3,5 +3,5 @@
 <head> 
  <title> git <\title>
 <\head>
-<body>welcome to devops lab<\body> 
+<body>welcome to devops lab1<\body> 
 <\html>
