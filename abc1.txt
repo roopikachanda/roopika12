@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<head> 
+ <title> git <\title>
+<\head>
+<body>welcome to html and devops lab<\body> 
+<\html>
